@@ -12,7 +12,7 @@
   </p>
   
 
-## Get Started
+## Get Started.
 
 install dev dependencies
 
